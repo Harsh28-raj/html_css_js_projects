@@ -51,14 +51,14 @@ async function checkWeather(city){
     const response = await fetch(apiUrl + city);
     const data = await response.json();
 
-    // ❗ WeatherAPI error handling
+    
     if (data.error) {
         document.querySelector(".error").style.display = "block";
         document.querySelector(".weather").style.display = "none";
         return;
     }
 
-    // If valid city → hide error
+   
     document.querySelector(".error").style.display = "none";
     document.querySelector(".weather").style.display = "block";
 
