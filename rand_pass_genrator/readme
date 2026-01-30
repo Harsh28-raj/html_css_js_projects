@@ -1,0 +1,70 @@
+# 🌐 HTML, CSS & JavaScript Projects Collection
+
+This repository contains a collection of beginner-to-intermediate frontend projects built using **HTML, CSS, and JavaScript** as part of my learning journey.
+
+🔗 **Live Deployed Site (Vercel):**  
+https://html-css-js-projects-j58i.vercel.app/
+
+📂 **GitHub Repository:**  
+https://github.com/Harsh28-raj/html_css_js_projects
+
+---
+
+## 🚀 Projects Included
+
+### 🔐 Random Password Generator
+A simple tool that generates secure random passwords using letters, numbers, and symbols.
+
+**Features:**
+- Generates 14-character random passwords  
+- Copy to clipboard functionality  
+- Clean UI  
+- Instant feedback when password is copied  
+
+**Tech Used:**
+- HTML  
+- CSS  
+- JavaScript (DOM Manipulation)  
+
+📁 Project Folder:
+`rand_pass_genrator`
+
+---
+
+## 🛠 Technologies Used
+
+- HTML5  
+- CSS3 (Flexbox, Styling)  
+- Vanilla JavaScript  
+- Vercel (Deployment)  
+- Git & GitHub (Version Control)  
+
+---
+
+## 📦 How to Run Locally
+
+```bash
+git clone https://github.com/Harsh28-raj/html_css_js_projects.git
+cd html_css_js_projects/rand_pass_genrator
+open index.html
+```
+
+---
+
+## 🎯 Purpose
+
+This repository is part of my hands-on learning to:
+- Strengthen frontend fundamentals  
+- Practice DOM manipulation  
+- Build real mini-projects  
+- Learn deployment workflows  
+
+---
+
+## 📬 Connect With Me
+
+GitHub: https://github.com/Harsh28-raj
+
+---
+
+⭐ More projects coming soon!
